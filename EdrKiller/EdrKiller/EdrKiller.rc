@@ -1,0 +1,3 @@
+#include "resource.h"
+
+IDR_SYS2 RCDATA "..\\resources\\PROCEXP.sys"
